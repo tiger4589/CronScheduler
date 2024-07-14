@@ -6,7 +6,7 @@ A .Net scheduler using cron expressions built on top of [NCrontab by atifaziz](h
 
 ## How to install?
 
-You can find the library on nuget.org by searching for Crontab.Scheduler
+You can find the library on nuget package manager by searching for Crontab.Scheduler, or by running the command `dotnet add package Crontab.Scheduler --version 1.0.0`
 
 ## How to inject the scheduler?
 
