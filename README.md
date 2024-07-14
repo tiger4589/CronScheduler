@@ -109,8 +109,8 @@ If you want a quick action to be executed without the need to implement the inte
 When you call `ScheduleJob`, an instance of `ICronJob` is returned (if successful).
 Four events can be listened to:
 
-- OnJobExecuted - Fires after an action or an executor being successfully executed.
-- OnJobNoMoreOccurrences - Fires when the scheduler can no longer find any occurrences between start and end date.
-- OnJobMaxExecution - Fires when the scheduler reaches the maximum number to execute (if provided)
-- OnErrorExecuting - Fires when an exception is caught during executing.
+- `OnJobExecuted` - Fires after an action or an executor being successfully executed.
+- `OnJobNoMoreOccurrences` - Fires when the scheduler can no longer find any occurrences between start and end date.
+- `OnJobMaxExecution` - Fires when the scheduler reaches the maximum number to execute (if provided)
+- `OnErrorExecuting` - Fires when an exception is caught during executing.
 
