@@ -1,4 +1,5 @@
 [![.NET](https://github.com/tiger4589/CronScheduler/actions/workflows/dotnet.yml/badge.svg)](https://github.com/tiger4589/CronScheduler/actions/workflows/dotnet.yml)
+[![NuGet version (Crontab.Scheduler)](https://img.shields.io/nuget/v/Crontab.Scheduler.svg?style=flat-square)](https://www.nuget.org/packages/Crontab.Scheduler/)
 
 # Cron Expression Scheduler for .Net
 
