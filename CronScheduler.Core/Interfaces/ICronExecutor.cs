@@ -2,5 +2,8 @@
 
 public interface ICronExecutor
 {
-   void Execute();
+    /// <summary>
+    /// The method that will be executed by the cron job when you implement the <c>ICronExecutor</c> and pass an instance to the <c>SchedulerOptionsBuilder</c>.
+    /// </summary>
+    void Execute();
 }

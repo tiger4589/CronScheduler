@@ -7,7 +7,7 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageId>Crontab.Scheduler</PackageId>
     <Title>Crontab Scheduler</Title>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>tiger45</Authors>
     <Product>NCrontabScheduler</Product>
     <Description>Built on top of NCrontab by atifaziz, a scheduler that will automatically call your desired methods according to the given cron expression.</Description>
@@ -15,7 +15,7 @@
     <RepositoryUrl>https://github.com/tiger4589/CronScheduler</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>crontab;schedule;cronjob;</PackageTags>
-    <PackageReleaseNotes>Initial Release</PackageReleaseNotes>
+    <PackageReleaseNotes>Added summaries and edited the readme file.</PackageReleaseNotes>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageReadmeFile>README.md</PackageReadmeFile>
